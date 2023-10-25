@@ -1,0 +1,7 @@
+D:\Fresher Training 2023\CF.FresherTraining.ConsoleApp\CF.FresherTraining.ConsoleApp\bin\Debug\CF.FresherTraining.ConsoleApp.exe.config
+D:\Fresher Training 2023\CF.FresherTraining.ConsoleApp\CF.FresherTraining.ConsoleApp\bin\Debug\CF.FresherTraining.ConsoleApp.exe
+D:\Fresher Training 2023\CF.FresherTraining.ConsoleApp\CF.FresherTraining.ConsoleApp\bin\Debug\CF.FresherTraining.ConsoleApp.pdb
+D:\Fresher Training 2023\CF.FresherTraining.ConsoleApp\CF.FresherTraining.ConsoleApp\obj\Debug\CF.FresherTraining.ConsoleApp.csproj.AssemblyReference.cache
+D:\Fresher Training 2023\CF.FresherTraining.ConsoleApp\CF.FresherTraining.ConsoleApp\obj\Debug\CF.FresherTraining.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Fresher Training 2023\CF.FresherTraining.ConsoleApp\CF.FresherTraining.ConsoleApp\obj\Debug\CF.FresherTraining.ConsoleApp.exe
+D:\Fresher Training 2023\CF.FresherTraining.ConsoleApp\CF.FresherTraining.ConsoleApp\obj\Debug\CF.FresherTraining.ConsoleApp.pdb
